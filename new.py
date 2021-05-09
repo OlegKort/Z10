@@ -16,3 +16,10 @@ https://eddbapi.kodeblox.com/api/v4/docs/
 
 
 hello
+
+
+D:\python>git checkout -b test      # создать ветку
+Switched to a new branch 'test'
+
+D:\python>git push 2 test       # запушить
+
